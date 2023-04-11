@@ -1,4 +1,4 @@
-# Machine_learning-ML-
+# Machine_Learning-ML-
 
 This is a repository showcasing my most important Python machine learning projects.
 
